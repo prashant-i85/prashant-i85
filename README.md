@@ -29,7 +29,7 @@ I'm a Computer Science student at Galgotias University specializing in **backend
 
 ### 🏆 Coding Profiles
 [![Codolio](https://img.shields.io/badge/Codolio-101010?style=for-the-badge&logo=c&logoColor=white)](https://codolio.com/profile/prashant-i85)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](#)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)]([#](https://leetcode.com/u/prashant-i85/))
 
 
 ---
